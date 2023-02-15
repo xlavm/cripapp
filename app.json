@@ -1,0 +1,10 @@
+{
+  "name": "cripapp",
+  "displayName": "cripapp",
+  "extra": {
+    "eas": {
+      "projectId": "78e6243c-3a8e-4cfe-aef9-ffa566b87228"
+    }
+  },
+  "owner": "xalvm"
+}
